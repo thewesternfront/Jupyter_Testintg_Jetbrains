@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Added AI Code from ChatGPT" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;thewesternfront&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thewesternfront/Jupyter_Testintg_Jetbrains&quot;,
+    &quot;accountId&quot;: &quot;12cc8e6f-ec66-450f-bfcb-5964ea1e03d8&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2vvbqbLIxERq0KgPdZCWN0ZQDt2" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+    <option name="sortKey" value="BY_TYPE" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Jupyter_Test.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\cymru.MSI\PycharmProjects\Jupyter_Testintg_Jetbrains" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Jupyter_Test" type="PythonConfigurationType" factoryName="Python">
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.12" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="jupyter" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="true" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\cymru.MSI\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="" />
+      <created>1745028686643</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745028686643</updated>
+      <workItem from="1745028688198" duration="1451000" />
+      <workItem from="1747214450820" duration="680000" />
+      <workItem from="1749603854259" duration="60000" />
+      <workItem from="1751235171652" duration="645000" />
+      <workItem from="1751489371764" duration="1072000" />
+      <workItem from="1751492238671" duration="28881000" />
+      <workItem from="1752181685036" duration="4382000" />
+      <workItem from="1752696431128" duration="3954000" />
+      <workItem from="1752702640273" duration="444000" />
+      <workItem from="1752703790930" duration="4705000" />
+      <workItem from="1752825616429" duration="1205000" />
+      <workItem from="1752826952592" duration="2366000" />
+      <workItem from="1752829354494" duration="15131000" />
+      <workItem from="1753218980056" duration="3543000" />
+      <workItem from="1753222659021" duration="952000" />
+      <workItem from="1753223633678" duration="2413000" />
+      <workItem from="1753251373724" duration="56000" />
+      <workItem from="1753303288204" duration="7952000" />
+      <workItem from="1753441493495" duration="10809000" />
+      <workItem from="1753608910341" duration="19000" />
+      <workItem from="1753738249053" duration="11646000" />
+      <workItem from="1754088693563" duration="53488000" />
+      <workItem from="1756430060216" duration="12292000" />
+    </task>
+    <task id="LOCAL-00001" summary="Car Sales vid54">
+      <option name="closed" value="true" />
+      <created>1751669464865</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751669464865</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Car Sales - Viewing and Selecting Data  vid57">
+      <option name="closed" value="true" />
+      <created>1751679691951</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1751679691951</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Car Sales - Viewing and Selecting Data  vid60">
+      <option name="closed" value="true" />
+      <created>1752703041827</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1752703041827</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Car Sales - Viewing and Selecting Data  vid60">
+      <option name="closed" value="true" />
+      <created>1752709018938</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1752709018938</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Numpy Arrays Video # 66 Complete, starting on Video # 67 next">
+      <option name="closed" value="true" />
+      <created>1752968197767</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752968197767</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Pushing all numpy and pandas notebooks">
+      <option name="closed" value="true" />
+      <created>1753220653574</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1753220653574</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Recovered pandas jupyter notebook">
+      <option name="closed" value="true" />
+      <created>1753223683345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1753223683345</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Random numbers">
+      <option name="closed" value="true" />
+      <created>1753303540321</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1753303540321</updated>
+    </task>
+    <task id="LOCAL-00009" summary="pandas nb">
+      <option name="closed" value="true" />
+      <created>1753440485663</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1753440485663</updated>
+    </task>
+    <task id="LOCAL-00010" summary="fixed pandas nb">
+      <option name="closed" value="true" />
+      <created>1753441634295</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1753441634295</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Video 70, manipulating and comparing arrays section 4 of notebook">
+      <option name="closed" value="true" />
+      <created>1753571517685</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1753571517685</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Video 73 Reshape and Transpose Arrays ... Reshape is done, Transpose is next">
+      <option name="closed" value="true" />
+      <created>1753920001433</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1753920001433</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Video 75 Reshape and Transpose Arrays ... Reshape is done, Transpose is next">
+      <option name="closed" value="true" />
+      <created>1754088757727</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1754088757727</updated>
+    </task>
+    <task id="LOCAL-00014" summary="finished #75, now onto #76">
+      <option name="closed" value="true" />
+      <created>1754254572876</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1754254572876</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Comparison Operators">
+      <option name="closed" value="true" />
+      <created>1754258559762</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1754258559762</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added AI Code from ChatGPT">
+      <option name="closed" value="true" />
+      <created>1756509363576</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1756509363576</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Car Sales vid54" />
+    <MESSAGE value="Car Sales - Viewing and Selecting Data  vid57" />
+    <MESSAGE value="Car Sales - Viewing and Selecting Data  vid60" />
+    <MESSAGE value="Numpy Arrays Video # 66 Complete, starting on Video # 67 next" />
+    <MESSAGE value="Pushing all numpy and pandas notebooks" />
+    <MESSAGE value="Recovered pandas jupyter notebook" />
+    <MESSAGE value="Random numbers" />
+    <MESSAGE value="Random numbers - fixpandas script stuck in json format" />
+    <MESSAGE value="Random numbers - fix pandas script stuck in json format" />
+    <MESSAGE value="pandas nb" />
+    <MESSAGE value="fixed pandas nb" />
+    <MESSAGE value="Video 70, manipulating and comparing arrays section 4 of notebook" />
+    <MESSAGE value="Video 73 Reshape and Transpose Arrays ... Reshape is done, Transpose is next" />
+    <MESSAGE value="Video 75 Reshape and Transpose Arrays ... Reshape is done, Transpose is next" />
+    <MESSAGE value="finished #75, now onto #76" />
+    <MESSAGE value="Comparison Operators" />
+    <MESSAGE value="Added AI Code from ChatGPT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added AI Code from ChatGPT" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Jupyter_Testintg_Jetbrains$Main.coverage" NAME="Main Coverage Results" MODIFIED="1752703072594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
