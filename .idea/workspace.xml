@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Added AI Code from ChatGPT">
-      <change afterPath="$PROJECT_DIR$/Introduction-to-MatplotLib.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/NumPy_Exercises.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction-to-numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-numpy.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/numpy-exercises.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/numpy-exercises.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Adding Matplotlib functionality" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,7 +138,7 @@
       <workItem from="1757192088634" duration="2432000" />
       <workItem from="1757197217387" duration="648000" />
       <workItem from="1757197880327" duration="908000" />
-      <workItem from="1757204287933" duration="696000" />
+      <workItem from="1757204287933" duration="1341000" />
     </task>
     <task id="LOCAL-00001" summary="Car Sales vid54">
       <option name="closed" value="true" />
@@ -291,7 +284,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756516393424</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Adding Matplotlib functionality">
+      <option name="closed" value="true" />
+      <created>1757205004579</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1757205004579</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +327,8 @@
     <MESSAGE value="finished #75, now onto #76" />
     <MESSAGE value="Comparison Operators" />
     <MESSAGE value="Added AI Code from ChatGPT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added AI Code from ChatGPT" />
+    <MESSAGE value="Adding Matplotlib functionality" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Matplotlib functionality" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Jupyter_Testintg_Jetbrains$Main.coverage" NAME="Main Coverage Results" MODIFIED="1752703072594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
