@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Repairing IDE bugs in PC">
-      <change beforePath="$PROJECT_DIR$/.idea/Jupyter_Testintg_Jetbrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jupyter_Testintg_Jetbrains.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Added AI Code from ChatGPT">
       <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +24,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/thewesternfront/Jupyter_Testintg_Jetbrains&quot;,
-    &quot;accountId&quot;: &quot;6cfe80d6-ae86-46a3-9fe7-1c273cbb6d7a&quot;
+    &quot;accountId&quot;: &quot;12cc8e6f-ec66-450f-bfcb-5964ea1e03d8&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -73,7 +70,7 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="SDK_NAME" value="Python 3.13 (Jupyter_Testintg_Jetbrains)" />
+      <option name="SDK_NAME" value="Python 3.12" />
       <option name="WORKING_DIRECTORY" value="" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
@@ -93,8 +90,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.122" />
-        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -132,9 +129,6 @@
       <workItem from="1753738249053" duration="11646000" />
       <workItem from="1754088693563" duration="53488000" />
       <workItem from="1756430060216" duration="12596000" />
-      <workItem from="1756515126885" duration="10000" />
-      <workItem from="1756515149680" duration="281000" />
-      <workItem from="1756515441502" duration="623000" />
     </task>
     <task id="LOCAL-00001" summary="Car Sales vid54">
       <option name="closed" value="true" />
@@ -307,8 +301,7 @@
     <MESSAGE value="finished #75, now onto #76" />
     <MESSAGE value="Comparison Operators" />
     <MESSAGE value="Added AI Code from ChatGPT" />
-    <MESSAGE value="Repairing IDE bugs in PC" />
-    <option name="LAST_COMMIT_MESSAGE" value="Repairing IDE bugs in PC" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added AI Code from ChatGPT" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Jupyter_Testintg_Jetbrains$Main.coverage" NAME="Main Coverage Results" MODIFIED="1752703072594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
