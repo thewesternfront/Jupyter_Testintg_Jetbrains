@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="multiple bar graphs 2x2">
+      <change beforePath="$PROJECT_DIR$/.idea/Jupyter_Testintg_Jetbrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jupyter_Testintg_Jetbrains.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Introduction-to-MatplotLib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction-to-MatplotLib.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampleplot.png" beforeDir="false" afterPath="$PROJECT_DIR$/sampleplot.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +16,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -21,12 +29,12 @@
     &quot;assignee&quot;: &quot;thewesternfront&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/thewesternfront/Jupyter_Testintg_Jetbrains",
-    "accountId": "6cfe80d6-ae86-46a3-9fe7-1c273cbb6d7a"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/thewesternfront/Jupyter_Testintg_Jetbrains&quot;,
+    &quot;accountId&quot;: &quot;6cfe80d6-ae86-46a3-9fe7-1c273cbb6d7a&quot;
   }
-}]]></component>
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
