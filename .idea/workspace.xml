@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Pandas DataFrames and Car Sales">
+    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="pandas dataframe plotting with car sales data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Introduction-to-MatplotLib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction-to-MatplotLib.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction-to-numpy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-numpy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Untitled.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +31,7 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/thewesternfront/Jupyter_Testintg_Jetbrains&quot;,
-    &quot;accountId&quot;: &quot;6cfe80d6-ae86-46a3-9fe7-1c273cbb6d7a&quot;
+    &quot;accountId&quot;: &quot;12cc8e6f-ec66-450f-bfcb-5964ea1e03d8&quot;
   }
 }</component>
   <component name="ProblemsViewState">
@@ -96,8 +96,8 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.122" />
-        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-PY-251.26927.90" />
+        <option value="bundled-python-sdk-41e8cd69c857-64d779b69b7a-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26927.90" />
       </set>
     </attachedChunks>
   </component>
@@ -136,6 +136,9 @@
       <workItem from="1754088693563" duration="53488000" />
       <workItem from="1756430060216" duration="12596000" />
       <workItem from="1758274333914" duration="11128000" />
+      <workItem from="1759868528421" duration="3122000" />
+      <workItem from="1760144134672" duration="10864000" />
+      <workItem from="1761176319903" duration="5467000" />
     </task>
     <task id="LOCAL-00001" summary="Car Sales vid54">
       <option name="closed" value="true" />
@@ -305,7 +308,15 @@
       <option name="project" value="LOCAL" />
       <updated>1758412777946</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="pandas dataframe plotting with car sales data">
+      <option name="closed" value="true" />
+      <created>1758680629896</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1758680629896</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -344,7 +355,8 @@
     <MESSAGE value="multiple bar graphs 2x2" />
     <MESSAGE value="plotting subplots" />
     <MESSAGE value="Pandas DataFrames and Car Sales" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pandas DataFrames and Car Sales" />
+    <MESSAGE value="pandas dataframe plotting with car sales data" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandas dataframe plotting with car sales data" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Jupyter_Testintg_Jetbrains$Main.coverage" NAME="Main Coverage Results" MODIFIED="1752703072594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
