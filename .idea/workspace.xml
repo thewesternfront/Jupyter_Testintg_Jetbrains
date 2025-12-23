@@ -138,7 +138,8 @@
       <workItem from="1759868528421" duration="3122000" />
       <workItem from="1760144134672" duration="10864000" />
       <workItem from="1761176319903" duration="6887000" />
-      <workItem from="1763499899847" duration="359000" />
+      <workItem from="1763499899847" duration="8046000" />
+      <workItem from="1763699181304" duration="11715000" />
     </task>
     <task id="LOCAL-00001" summary="Car Sales vid54">
       <option name="closed" value="true" />
@@ -324,7 +325,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761182533300</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Adding more matplotlib ideas with horiz, vert lines and targets 0 and 1">
+      <option name="closed" value="true" />
+      <created>1763503108285</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1763503108285</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
