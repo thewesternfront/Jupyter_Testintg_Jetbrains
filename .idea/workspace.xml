@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Adding more matplotlib ideas with horiz, vert lines and targets 0 and 1">
-      <change beforePath="$PROJECT_DIR$/.idea/Jupyter_Testintg_Jetbrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jupyter_Testintg_Jetbrains.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Working with Classification models amd test data - training a model">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introduction-to-scikit-learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-scikit-learn.ipynb" afterDir="false" />
     </list>
@@ -153,7 +151,7 @@
       <workItem from="1766881245290" duration="5703000" />
       <workItem from="1766891213320" duration="780000" />
       <workItem from="1766962718751" duration="2277000" />
-      <workItem from="1766966700531" duration="1762000" />
+      <workItem from="1766966700531" duration="2833000" />
     </task>
     <task id="LOCAL-00001" summary="Car Sales vid54">
       <option name="closed" value="true" />
@@ -347,7 +345,15 @@
       <option name="project" value="LOCAL" />
       <updated>1763503108285</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Working with Classification models amd test data - training a model">
+      <option name="closed" value="true" />
+      <created>1766968626001</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1766968626001</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -388,7 +394,8 @@
     <MESSAGE value="Pandas DataFrames and Car Sales" />
     <MESSAGE value="pandas dataframe plotting with car sales data" />
     <MESSAGE value="Adding more matplotlib ideas with horiz, vert lines and targets 0 and 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding more matplotlib ideas with horiz, vert lines and targets 0 and 1" />
+    <MESSAGE value="Working with Classification models amd test data - training a model" />
+    <option name="LAST_COMMIT_MESSAGE" value="Working with Classification models amd test data - training a model" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Jupyter_Testintg_Jetbrains$Main.coverage" NAME="Main Coverage Results" MODIFIED="1752703072594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
