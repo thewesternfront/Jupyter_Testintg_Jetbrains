@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Working with Classification models amd test data - training a model - completed">
-      <change afterPath="$PROJECT_DIR$/scikit-learn-2.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introduction-to-scikit-learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-scikit-learn.ipynb" afterDir="false" />
     </list>
@@ -161,6 +160,8 @@
       <workItem from="1766962718751" duration="2277000" />
       <workItem from="1766966700531" duration="3682000" />
       <workItem from="1767130210904" duration="6759000" />
+      <workItem from="1767142231508" duration="10000" />
+      <workItem from="1767142347615" duration="1678000" />
     </task>
     <task id="LOCAL-00001" summary="Car Sales vid54">
       <option name="closed" value="true" />
