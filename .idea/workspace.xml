@@ -5,26 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="breakdown steps for data training - split data into test and training #112">
-      <change afterPath="$PROJECT_DIR$/data/car-sales-extended.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Introduction-to-MatplotLib.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Introduction-to-MatplotLib.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TroysJupyterNotebook.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/TroysJupyterNotebook.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ViewingAndSelectingDataWithPandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/ViewingAndSelectingDataWithPandas.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WRITTEN_FROM_WEB_DATA.CSV" beforeDir="false" afterPath="$PROJECT_DIR$/data/WRITTEN_FROM_WEB_DATA.CSV" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-sales-missing-data.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/car-sales-missing-data.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-sales-new.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/car-sales-new.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-sales.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/car-sales.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car-sales_EXPORTED.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/car-sales_EXPORTED.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_sales2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/car_sales2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/car_sales_new.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/car_sales_new.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heart-disease 2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/heart-disease 2.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heart-disease.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/heart-disease.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/heart_disease_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/heart_disease_test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction-to-pandas.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-pandas.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/introduction-to-scikit-learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-scikit-learn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/jupyter_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/jupyter_test.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysample.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mysample.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/num_wheels_road_safety.csv" beforeDir="false" afterPath="$PROJECT_DIR$/data/num_wheels_road_safety.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/random_forest_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/random_forest_model.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -183,7 +165,7 @@
       <workItem from="1767130210904" duration="6759000" />
       <workItem from="1767142231508" duration="10000" />
       <workItem from="1767142347615" duration="2515000" />
-      <workItem from="1767947558814" duration="2505000" />
+      <workItem from="1767947558814" duration="8049000" />
     </task>
     <task id="LOCAL-00001" summary="Car Sales vid54">
       <option name="closed" value="true" />
@@ -401,7 +383,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767259047649</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="breakdown steps for data training - split data into test and training #112">
+      <option name="closed" value="true" />
+      <created>1768087718554</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1768087718554</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
