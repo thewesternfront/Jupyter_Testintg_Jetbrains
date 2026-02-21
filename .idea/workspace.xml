@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="section 112">
-      <change beforePath="$PROJECT_DIR$/.idea/Jupyter_Testintg_Jetbrains.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jupyter_Testintg_Jetbrains.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/introduction-to-scikit-learn.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/introduction-to-scikit-learn.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/random_forest_model.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/random_forest_model.pkl" afterDir="false" />
-    </list>
+    <list default="true" id="e05972da-fb9e-4a73-ae58-e5350af3a27e" name="Changes" comment="Converted Objects into numerical data section 112/113" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,12 +31,12 @@
     &quot;assignee&quot;: &quot;thewesternfront&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/thewesternfront/Jupyter_Testintg_Jetbrains&quot;,
-    &quot;accountId&quot;: &quot;cd56fe6c-0791-4860-bbb4-b8f347be585d&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/thewesternfront/Jupyter_Testintg_Jetbrains",
+    "accountId": "6cfe80d6-ae86-46a3-9fe7-1c273cbb6d7a"
   }
-}</component>
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -114,8 +108,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
-        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+        <option value="bundled-python-sdk-880ecab49056-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.122" />
       </set>
     </attachedChunks>
   </component>
@@ -419,7 +412,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770839350735</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Converted Objects into numerical data section 112/113">
+      <option name="closed" value="true" />
+      <created>1770961512501</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1770961512501</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,7 +438,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Numpy Arrays Video # 66 Complete, starting on Video # 67 next" />
     <MESSAGE value="Pushing all numpy and pandas notebooks" />
     <MESSAGE value="Recovered pandas jupyter notebook" />
     <MESSAGE value="Random numbers" />
@@ -462,7 +462,8 @@
     <MESSAGE value="breakdown steps for data training" />
     <MESSAGE value="breakdown steps for data training - split data into test and training #112" />
     <MESSAGE value="section 112" />
-    <option name="LAST_COMMIT_MESSAGE" value="section 112" />
+    <MESSAGE value="Converted Objects into numerical data section 112/113" />
+    <option name="LAST_COMMIT_MESSAGE" value="Converted Objects into numerical data section 112/113" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Jupyter_Testintg_Jetbrains$Main.coverage" NAME="Main Coverage Results" MODIFIED="1752703072594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
